@@ -1,0 +1,18 @@
+.Container{
+    display:flex;
+    position: relative;
+    justify-content: left;
+    margin-left: 5%;
+    font-family: 'Binchotan_Sharp';
+    font-size: 28px;
+}
+
+.Container hr{
+    position:absolute;
+    top:0px;
+    left:0%;
+    width: 300px;
+    border:none;
+    font-family: 'Binchotan_Sharp';
+    margin-top: 80px;
+}
