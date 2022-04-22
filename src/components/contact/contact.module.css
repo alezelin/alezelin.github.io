@@ -41,7 +41,6 @@
     transition: transform 2s;
 }
 
-<<<<<<< HEAD
 @media screen and (max-width:690px){
     .Container{
         height:400px;
@@ -86,5 +85,3 @@
         transition: transform 2s;
     }
 }
-=======
->>>>>>> 288a0e46a05fa6e76c16d58c99c9ecb730d59c4b
